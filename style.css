@@ -1,0 +1,21 @@
+body{
+  background-color: #355C7D;
+  color: #F8B195;
+}
+
+h1{
+  background-color: #6C5B7B;
+  color: #F8B195;
+}
+
+h2{
+  background-color: #C06C84;
+  color: #F8B195;
+}
+
+p{
+  background-color: #F67280;
+  padding: 10% 10% 10%;
+  color: #F8B195;
+  font-size: 20px;
+}
