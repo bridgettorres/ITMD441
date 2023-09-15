@@ -6,6 +6,7 @@ body{
 h1{
   background-color: #6C5B7B;
   color: #F8B195;
+  text-shadow: 2px 2px 2px #F8B195;
 }
 
 h2{
@@ -15,7 +16,18 @@ h2{
 
 p{
   background-color: #F67280;
-  padding: 10% 10% 10%;
+  padding: 5% 5% 5%;
   color: #F8B195;
   font-size: 20px;
+  margin-left: 100px;
+  display: inline-block;
+}
+
+img{
+  width: 200px;
+  height: auto;
+  border: 5px solid #F67280;
+  float: right;
+  padding: 15px;
+  background-color: #C06C84;
 }
